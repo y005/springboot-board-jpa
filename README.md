@@ -9,4 +9,4 @@ Spring Boot JPA - Rest API를 강의를 듣고, 게시판 구현 미션을 수�
 - [X] 게시판 조회 기능
 - [X] 게시판 삭제 기능
 
-## [게시판 API 사용 명세서](https://github.com/y005/springboot-board-jpa/blob/main/src/docs/index.pdf)
+## [게시판 API 사용 명세서](https://github.com/y005/springboot-board-jpa/blob/main/src/docs/index.pdf)\
